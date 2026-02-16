@@ -78,11 +78,11 @@ Show what dashboard looklike:-
 
 🔹 Page 1 – Market Overview
 
-https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/main/Screenshot%202026-02-15%20123636.png
+![image alt](https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/652e39dc9858dfc8091a4f835564c62d55f41ca2/Screenshot%202026-02-15%20123636.png)
 
 🔹 Page 2 – Performance & Trend Analysis
 
-https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/main/Screenshot%202026-02-15%20123705.png
+![image alt](https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/main/Screenshot%202026-02-15%20123705.png)
 
 
 
