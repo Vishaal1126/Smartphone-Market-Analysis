@@ -55,6 +55,7 @@ Designed to replicate real-world business analysis scenarios
 📌 Dynamic KPI Cards with Interactive Filtering
 
 
+
 🎯 Business Goal
 
 To analyze smartphone sales performance by evaluating brand profitability, pricing strategy, customer ratings, and regional demand trends.The objective is to generate actionable insights that support strategic decision-making in market positioning and revenue optimization.
@@ -76,11 +77,11 @@ What seasonal trends influence smartphone sales?
 
 Show what dashboard looklike:-
 
-🔹 Page 1 – Market Overview
+🔹 Page 1 – Market Overview and Brand Performance
 
 ![image alt](https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/652e39dc9858dfc8091a4f835564c62d55f41ca2/Screenshot%202026-02-15%20123636.png)
 
-🔹 Page 2 – Performance & Trend Analysis
+🔹 Page 2 – Profitability, Pricing & Trend Analysis
 
 ![image alt](https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/main/Screenshot%202026-02-15%20123705.png)
 
