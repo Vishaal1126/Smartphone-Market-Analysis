@@ -46,9 +46,9 @@ Which region contributes most to growth?
 What seasonal trends influence smartphone sales?
 
 📷 Screenshots
-show what dashboard looklike:-
+Show what dashboard looklike:-
 🔹 Page 1 – Market Overview 
-
+https://github.com/Vishaal1126/Smartphone-Market-Analysis/blob/main/Screenshot%202026-02-15%20123636.png
 🔹 Page 2 – Performance & Trend Analysis
 
 
