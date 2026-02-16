@@ -42,8 +42,6 @@ Designed to replicate real-world business analysis scenarios
 
 🌍 Region-wise Sales Performance
 
-📱 Price Segment Analysis (Budget / Mid-Range / Premium)
-
 ⭐ Sales vs Customer Rating Correlation
 
 📈 Seasonal Sales Trend Analysis
